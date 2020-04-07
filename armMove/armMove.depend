@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1446667744 source:d:\test\armmove\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1446667744 d:\test\armmove\resource.h
+
+1545993571 source:d:\test\armmove\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+
+1546530265 source:c:\users\94367\desktop\c++\armmove\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1546506699 c:\users\94367\desktop\c++\armmove\resource.h
+
+1547297560 source:c:\users\94367\desktop\c++\armmove\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<commctrl.h>
+	"resource.h"
+	"ARM_SOLVER.h"
+
+1547195883 c:\users\94367\desktop\c++\armmove\matrix_4.h
+	<iostream>
+
+1547196304 source:c:\users\94367\desktop\c++\armmove\matrix_4.cpp
+	"MATRIX_4.h"
+	<iostream>
+	<cmath>
+
+1547295371 source:c:\users\94367\desktop\c++\armmove\arm_solver.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<commctrl.h>
+	"resource.h"
+	"ARM_SOLVER.h"
+
+1547295371 c:\users\94367\desktop\c++\armmove\arm_solver.h
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<commctrl.h>
+	"resource.h"
+
+1547295371 source:c:\users\94367\onedrive\codes\cplus\armmove\arm_solver.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<commctrl.h>
+	"resource.h"
+	"ARM_SOLVER.h"
+
+1546506699 c:\users\94367\onedrive\codes\cplus\armmove\resource.h
+
+1547295371 c:\users\94367\onedrive\codes\cplus\armmove\arm_solver.h
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<commctrl.h>
+	"resource.h"
+
+1547297560 source:c:\users\94367\onedrive\codes\cplus\armmove\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<commctrl.h>
+	"resource.h"
+	"ARM_SOLVER.h"
+
+1547196304 source:c:\users\94367\onedrive\codes\cplus\armmove\matrix_4.cpp
+	"MATRIX_4.h"
+	<iostream>
+	<cmath>
+
+1547195883 c:\users\94367\onedrive\codes\cplus\armmove\matrix_4.h
+	<iostream>
+
+1546530265 source:c:\users\94367\onedrive\codes\cplus\armmove\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
